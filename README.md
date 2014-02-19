@@ -1,5 +1,5 @@
-Exercise 6
-===============
+# Exercise 6
+
 Write a program, wordcount.py, that opens a file named on the command
 line and counts how many times each space-separated word occurs in the
 file. Your program should then print those counts to the screen.
